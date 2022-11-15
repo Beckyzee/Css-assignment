@@ -1,0 +1,44 @@
+*
+*::after
+*::before {
+    box-sizing:border-box;
+}
+body {
+    background-color: white;
+}
+h1 {
+font-size: 18px;
+}
+.first {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: green;
+    border: 2px solid red;
+    border-radius: 15px;
+    width: 1000px;
+    margin: 20px;
+    padding: 20px;
+}
+.second {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: red;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    width: 1000px;
+    margin: 20px;
+    padding: 20px ;
+}
+.third {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: blue;
+    border: 2px solid palevioletred;
+    border-radius: 15px;
+    width: 1000px;
+    margin: 20px;
+    padding: 20px;
+}
+.note {font-style: italic;}
+.fine {font-style: italic;}
+.bold {font-weight: bold;}
